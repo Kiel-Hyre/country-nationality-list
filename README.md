@@ -6,6 +6,7 @@ ISO 3166-1 Country codes and nationality listing in the following formats:
 * JSON
 * MySQL
 * PHP (Array)
+* Python (List - Dict)
 
 Data taken from:
 - https://en.wikipedia.org/wiki/ISO_3166-1
